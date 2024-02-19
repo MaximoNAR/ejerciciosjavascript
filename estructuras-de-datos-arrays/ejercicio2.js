@@ -11,3 +11,6 @@ for (let i = 0; i < numeros.length; i++) {
 }
 
 console.log("La suma de los elementos del array es:", suma);
+
+
+// LA PROPIEDAD LENGTH SE UTILIZA PARA DEVOLVER LA CANTIDAD DE ELEMENTOS DEL ARRAY

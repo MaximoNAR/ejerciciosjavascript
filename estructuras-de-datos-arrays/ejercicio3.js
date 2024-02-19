@@ -13,3 +13,5 @@ let arrayNumeros = numeros.splice(" ");
 let elemento = 5
 
 console.log("el indice de 32 es " + busqueda);
+
+// EL METODO INDEXOF LO QUE REALIZA ES QUE DEVUELVE EL PRIMER INDICE EN EL QUE SE ENCUENTRE UN ELEMENTO ESPECIFICADO, O -1 SI NO SE ENCUENTRA
